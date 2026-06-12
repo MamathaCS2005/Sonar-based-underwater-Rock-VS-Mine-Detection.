@@ -226,7 +226,7 @@ This project is for educational and research purposes.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - UCI Machine Learning Repository for the Sonar dataset
 - scikit-learn for the Random Forest implementation
