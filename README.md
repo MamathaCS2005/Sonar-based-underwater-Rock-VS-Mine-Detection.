@@ -1,4 +1,4 @@
-# 🎯 AI-Based Underwater Mine Detection and Analysis System
+#  AI-Based Underwater Mine Detection and Analysis System
 
 A defense-style intelligent decision support system that uses machine learning to analyze sonar signal data and classify underwater objects as **Mine** or **Rock**. Built with Python, scikit-learn, and Streamlit.
 
